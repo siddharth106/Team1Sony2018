@@ -1,0 +1,28 @@
+
+div {
+   width: 100px;
+    height: 500px;
+    background-color: powderblue;
+}
+h1{
+	margin-top:50px;
+	margin-left:50px;
+	 padding: 25px 50px;
+	  width: 100px;
+   
+background-repeat:repeat-x;
+ background-position: right top;
+ border:2px solid blue;
+}
+h2{
+background-repeat:repeat-x;
+ background-position: right top;
+ border:2px dotted blue;
+}
+h3{
+background-repeat:repeat-x;
+ background-position: right top;
+border-radius:200px;
+ border-style:dashed;
+    border-width: 2px 2px 2px 2px;
+}
